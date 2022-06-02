@@ -1,3 +1,42 @@
 [submodule "dbms"]
 	path = dbms
 	url = https://github.com/novoseltcev/miet-dbms.git
+[submodule "security"]
+	path = security
+	url = https://github.com/novoseltcev/miet-security.git
+[submodule "microprocessors"]
+	path = microprocessors
+	url = https://github.com/novoseltcev/miet-microprocessors.git
+[submodule "reverse-engineering"]
+	path = reverse-engineering
+	url = https://github.com/novoseltcev/miet-reverse-engineering.git
+[submodule "open-mp"]
+	path = open-mp
+	url = https://github.com/novoseltcev/miet-open-mp.git
+[submodule "os"]
+	path = os
+	url = https://github.com/novoseltcev/miet-os.git
+[submodule "oop"]
+	path = oop
+	url = https://github.com/novoseltcev/miet-oop.git
+[submodule "patterns"]
+	path = patterns
+	url = https://github.com/novoseltcev/miet-patterns.git
+[submodule "industrial-programming"]
+	path = industrial-programming
+	url = https://github.com/novoseltcev/miet-industrial-programming.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/novoseltcev/miet-backend.git
+[submodule "nested-map-viewer"]
+	path = java/nested-map-viewer
+	url = https://github.com/novoseltcev/nested-map-viewer.git
+[submodule "vehicle-db"]
+	path = java/vehicle-db
+	url = https://github.com/novoseltcev/vehicle-database-app.git
+[submodule "http-ftp-browser"]
+	path = java/http-ftp-browser
+	url = https://github.com/novoseltcev/http-ftp-browser.git
+[submodule "ping-pong"]
+	path = java/ping-pong
+	url = https://github.com/novoseltcev/ping-pong.git
