@@ -1,0 +1,3 @@
+[submodule "dbms"]
+	path = miet-dbms
+	url = https://github.com/novoseltcev/miet-dbms.git
